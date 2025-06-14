@@ -10,7 +10,7 @@ export const conferenceData = [
       address: 'Mirpur 01 Road N 12 Dhaka Bangladesh',
       date: '10 Am To 10 Pm 20 April 2024',
       description: 'Events are special occasions where people gather together to celebrate.',
-      image: '/assets/images/resources/conference-one-img-1.jpg',
+      image: 'assets/images/resources/conference-one-img-1.jpg',
     },
     {
       year: '2018',
@@ -18,7 +18,7 @@ export const conferenceData = [
       address: 'Mirpur 01 Road N 12 Dhaka Bangladesh',
       date: '10 Am To 10 Pm 20 April 2024',
       description: 'Events are special occasions where people gather together to celebrate.',
-      image: '/assets/images/resources/conference-one-img-2.jpg',
+      image: 'assets/images/resources/conference-one-img-2.jpg',
     },
     {
       year: '2020',
@@ -26,7 +26,7 @@ export const conferenceData = [
       address: 'Mirpur 01 Road N 12 Dhaka Bangladesh',
       date: '10 Am To 10 Pm 20 April 2024',
       description: 'Events are special occasions where people gather together to celebrate.',
-      image: '/assets/images/resources/conference-one-img-3.jpg',
+      image: 'assets/images/resources/conference-one-img-3.jpg',
     },
     {
       year: '2022',
@@ -34,7 +34,7 @@ export const conferenceData = [
       address: 'Mirpur 01 Road N 12 Dhaka Bangladesh',
       date: '10 Am To 10 Pm 20 April 2024',
       description: 'Events are special occasions where people gather together to celebrate.',
-      image: '/assets/images/resources/conference-one-img-4.jpg',
+      image: 'assets/images/resources/conference-one-img-4.jpg',
     },
     {
       year: '2024',
@@ -42,7 +42,7 @@ export const conferenceData = [
       address: 'Mirpur 01 Road N 12 Dhaka Bangladesh',
       date: '10 Am To 10 Pm 20 April 2024',
       description: 'Events are special occasions where people gather together to celebrate.',
-      image: '/assets/images/resources/conference-one-img-5.jpg',
+      image: 'assets/images/resources/conference-one-img-5.jpg',
     },
   ];
   

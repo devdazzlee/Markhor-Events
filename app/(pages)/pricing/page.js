@@ -218,7 +218,7 @@ export default function Home() {
                                         className="pricing-one__shape-1"
                                         style={{
                                           backgroundImage:
-                                            "url(/assets/images/shapes/pricing-one-shape-1.png)",
+                                            "url(assets/images/shapes/pricing-one-shape-1.png)",
                                         }}
                                       ></div>
                                       <h3 className="pricing-one__price">

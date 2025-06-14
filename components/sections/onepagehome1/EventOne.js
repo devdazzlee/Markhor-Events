@@ -28,7 +28,7 @@ export default function EventOne() {
         link: "/event",
       },
     ],
-    eventImage: "/assets/images/resources/event-one-img-1.jpg",
+    eventImage: "assets/images/resources/event-one-img-1.jpg",
   });
 
   return (

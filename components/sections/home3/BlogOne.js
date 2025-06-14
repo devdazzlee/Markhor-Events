@@ -5,7 +5,7 @@ const blogPosts = [
     {
         id: 1,
         title: 'Join the Festivi Celebrate Special Moments',
-        image: '/assets/images/blog/blog-1-1.jpg',
+        image: 'assets/images/blog/blog-1-1.jpg',
         date: 'October 19, 2022',
         author: 'admin',
         link: '/blog-details',
@@ -15,7 +15,7 @@ const blogPosts = [
       {
         id: 2,
         title: 'Embrace the Joyful Spirit Discover a World',
-        image: '/assets/images/blog/blog-1-2.jpg',
+        image: 'assets/images/blog/blog-1-2.jpg',
         date: 'October 19, 2022',
         author: 'admin',
         link: '/blog-details',
@@ -25,7 +25,7 @@ const blogPosts = [
       {
         id: 3,
         title: 'Where Moments Come Alive an Celebrate',
-        image: '/assets/images/blog/blog-1-3.jpg',
+        image: 'assets/images/blog/blog-1-3.jpg',
         date: 'October 19, 2022',
         author: 'admin',
         link: '/blog-details',

@@ -15,7 +15,7 @@ export default function BuyTicket() {
       { id: 1, text: "Buy Your Ticket", link: "/contact", class: "buy-ticket__btn-1" },
       { id: 2, text: "Contact Us", link: "/contact", class: "buy-ticket__btn-2" },
     ],
-    ticketImage: "/assets/images/resources/buy-ticket-img.jpg",
+    ticketImage: "assets/images/resources/buy-ticket-img.jpg",
   });
 
   return (

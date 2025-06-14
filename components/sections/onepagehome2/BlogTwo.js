@@ -4,7 +4,7 @@ const blogPosts = [
   {
     date: "Oct 19",
     title: "This piques curiosity and makes readers want",
-    imgSrc: "/assets/images/blog/blog-2-1.jpg",
+    imgSrc: "assets/images/blog/blog-2-1.jpg",
     link: "/blog-details",
     comments: 5,
     author: "admin",
@@ -12,7 +12,7 @@ const blogPosts = [
   {
     date: "Oct 25",
     title: "Clear value proposition and actionable steps",
-    imgSrc: "/assets/images/blog/blog-2-2.jpg",
+    imgSrc: "assets/images/blog/blog-2-2.jpg",
     link: "/blog-details",
     comments: 5,
     author: "admin",
@@ -20,7 +20,7 @@ const blogPosts = [
   {
     date: "Sep 25",
     title: "Makes readers want to know the answer",
-    imgSrc: "/assets/images/blog/blog-2-3.jpg",
+    imgSrc: "assets/images/blog/blog-2-3.jpg",
     link: "/blog-details",
     comments: 5,
     author: "admin",

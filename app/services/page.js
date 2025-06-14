@@ -60,7 +60,7 @@ export default function Home() {
 
   return (
     <>
-      <Layout headerStyle={4} footerStyle={1} breadcrumbTitle="Services"  backgroundImage={"/assets/images/backgrounds/page-header-bg-1-1.jpg"} >
+      <Layout headerStyle={4} footerStyle={1} breadcrumbTitle="Services"  backgroundImage={"assets/images/backgrounds/page-header-bg-1-1.jpg"} >
         <div>
           {/*Services Page Start*/}
           <section className="services-page">

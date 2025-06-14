@@ -13,8 +13,8 @@ const scheduleData = [
         time: 'From 9:30 to 11:30',
         subTitle: 'Leave a Impression',
         img: [
-            '/assets/images/resources/schedule-three-routine-details-img-1-1.jpg',
-            '/assets/images/resources/schedule-three-routine-details-img-1-2.jpg',
+            'assets/images/resources/schedule-three-routine-details-img-1-1.jpg',
+            'assets/images/resources/schedule-three-routine-details-img-1-2.jpg',
         ],
         link: '/event-details',
         delay: '100ms',
@@ -28,8 +28,8 @@ const scheduleData = [
         time: 'From 12:00 to 1:30',
         subTitle: 'Shine on Celebrations',
         img: [
-            '/assets/images/resources/schedule-three-routine-details-img-1-3.jpg',
-            '/assets/images/resources/schedule-three-routine-details-img-1-4.jpg',
+            'assets/images/resources/schedule-three-routine-details-img-1-3.jpg',
+            'assets/images/resources/schedule-three-routine-details-img-1-4.jpg',
         ],
         link: '/event-details',
         delay: '200ms',
@@ -43,8 +43,8 @@ const scheduleData = [
         time: 'From 2:00 to 3:30',
         subTitle: 'Shine Events',
         img: [
-            '/assets/images/resources/schedule-three-routine-details-img-1-5.jpg',
-            '/assets/images/resources/schedule-three-routine-details-img-1-6.jpg',
+            'assets/images/resources/schedule-three-routine-details-img-1-5.jpg',
+            'assets/images/resources/schedule-three-routine-details-img-1-6.jpg',
         ],
         link: '/event-details',
         delay: '300ms',
@@ -58,8 +58,8 @@ const scheduleData = [
         time: 'From 4:00 to 5:30',
         subTitle: 'Festivi Events',
         img: [
-            '/assets/images/resources/schedule-three-routine-details-img-1-1.jpg',
-            '/assets/images/resources/schedule-three-routine-details-img-1-2.jpg',
+            'assets/images/resources/schedule-three-routine-details-img-1-1.jpg',
+            'assets/images/resources/schedule-three-routine-details-img-1-2.jpg',
         ],
         link: '/event-details',
         delay: '400ms',

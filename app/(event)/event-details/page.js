@@ -44,7 +44,7 @@ export default function Home() {
               <div className="col-xl-6">
                 <div className="event-details__img-box-img">
                   <img
-                    src="/assets/images/resources/event-details-img-box-img-1.jpg"
+                    src="assets/images/resources/event-details-img-box-img-1.jpg"
                     alt=""
                   />
                 </div>
@@ -52,7 +52,7 @@ export default function Home() {
               <div className="col-xl-6">
                 <div className="event-details__img-box-img">
                   <img
-                    src="/assets/images/resources/event-details-img-box-img-2.jpg"
+                    src="assets/images/resources/event-details-img-box-img-2.jpg"
                     alt=""
                   />
                 </div>
@@ -141,7 +141,7 @@ export default function Home() {
               <div className="col-xl-6">
                 <div className="event-details__img-box-img">
                   <img
-                    src="/assets/images/resources/event-details-img-box-img-1.jpg"
+                    src="assets/images/resources/event-details-img-box-img-1.jpg"
                     alt=""
                   />
                 </div>
@@ -149,7 +149,7 @@ export default function Home() {
               <div className="col-xl-6">
                 <div className="event-details__img-box-img">
                   <img
-                    src="/assets/images/resources/event-details-img-box-img-2.jpg"
+                    src="assets/images/resources/event-details-img-box-img-2.jpg"
                     alt=""
                   />
                 </div>
@@ -238,7 +238,7 @@ export default function Home() {
               <div className="col-xl-6">
                 <div className="event-details__img-box-img">
                   <img
-                    src="/assets/images/resources/event-details-img-box-img-1.jpg"
+                    src="assets/images/resources/event-details-img-box-img-1.jpg"
                     alt=""
                   />
                 </div>
@@ -246,7 +246,7 @@ export default function Home() {
               <div className="col-xl-6">
                 <div className="event-details__img-box-img">
                   <img
-                    src="/assets/images/resources/event-details-img-box-img-2.jpg"
+                    src="assets/images/resources/event-details-img-box-img-2.jpg"
                     alt=""
                   />
                 </div>
@@ -335,7 +335,7 @@ export default function Home() {
               <div className="col-xl-6">
                 <div className="event-details__img-box-img">
                   <img
-                    src="/assets/images/resources/event-details-img-box-img-1.jpg"
+                    src="assets/images/resources/event-details-img-box-img-1.jpg"
                     alt=""
                   />
                 </div>
@@ -343,7 +343,7 @@ export default function Home() {
               <div className="col-xl-6">
                 <div className="event-details__img-box-img">
                   <img
-                    src="/assets/images/resources/event-details-img-box-img-2.jpg"
+                    src="assets/images/resources/event-details-img-box-img-2.jpg"
                     alt=""
                   />
                 </div>
@@ -432,7 +432,7 @@ export default function Home() {
               <div className="col-xl-6">
                 <div className="event-details__img-box-img">
                   <img
-                    src="/assets/images/resources/event-details-img-box-img-1.jpg"
+                    src="assets/images/resources/event-details-img-box-img-1.jpg"
                     alt=""
                   />
                 </div>
@@ -440,7 +440,7 @@ export default function Home() {
               <div className="col-xl-6">
                 <div className="event-details__img-box-img">
                   <img
-                    src="/assets/images/resources/event-details-img-box-img-2.jpg"
+                    src="assets/images/resources/event-details-img-box-img-2.jpg"
                     alt=""
                   />
                 </div>
@@ -504,7 +504,7 @@ export default function Home() {
                 <div className="event-details__left">
                   <div className="event-details__img">
                     <img
-                      src="/assets/images/resources/event-details-img-1.jpg"
+                      src="assets/images/resources/event-details-img-1.jpg"
                       alt=""
                     />
                   </div>

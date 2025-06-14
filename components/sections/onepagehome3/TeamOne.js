@@ -13,7 +13,7 @@ export default function TeamOne() {
         id: 1,
         name: "David Beckham",
         role: "Speaker",
-        image: "/assets/images/team/team-1-1.jpg",
+        image: "assets/images/team/team-1-1.jpg",
         hoverText:
           "Events bring people together for shared experiences and celebrations. From weddings and birthdays to conferences and festivals, events create memories.",
         link: "/team-details",
@@ -22,7 +22,7 @@ export default function TeamOne() {
         id: 2,
         name: "David Betman",
         role: "Singer",
-        image: "/assets/images/team/team-1-2.jpg",
+        image: "assets/images/team/team-1-2.jpg",
         hoverText:
           "Events bring people together for shared experiences and celebrations. From weddings and birthdays to conferences and festivals, events create memories.",
         link: "/team-details",
@@ -31,7 +31,7 @@ export default function TeamOne() {
         id: 3,
         name: "Jessica Brown",
         role: "Content Creator",
-        image: "/assets/images/team/team-1-3.jpg",
+        image: "assets/images/team/team-1-3.jpg",
         hoverText:
           "Events bring people together for shared experiences and celebrations. From weddings and birthdays to conferences and festivals, events create memories.",
         link: "/team-details",

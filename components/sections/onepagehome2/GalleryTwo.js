@@ -5,50 +5,50 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 
 const galleryItems = [
     {
-        image: "/assets/images/gallery/gallery-2-1.jpg",
+        image: "assets/images/gallery/gallery-2-1.jpg",
         title: "Elite Event Management",
         subtitle: "Dream Event",
         link: "gallery-details.html",
     },
     {
-        image: "/assets/images/gallery/gallery-2-2.jpg",
+        image: "assets/images/gallery/gallery-2-2.jpg",
         title: "Elite Event Management",
         subtitle: "Dream Event",
         link: "gallery-details.html",
     },
     {
-        image: "/assets/images/gallery/gallery-2-3.jpg",
+        image: "assets/images/gallery/gallery-2-3.jpg",
         title: "Elite Event Management",
         subtitle: "Dream Event",
         link: "gallery-details.html",
     },
     {
-        image: "/assets/images/gallery/gallery-2-4.jpg",
+        image: "assets/images/gallery/gallery-2-4.jpg",
         title: "Elite Event Management",
         subtitle: "Dream Event",
         link: "gallery-details.html",
     },
     // Duplicates to ensure enough slides for loop
     {
-        image: "/assets/images/gallery/gallery-2-1.jpg",
+        image: "assets/images/gallery/gallery-2-1.jpg",
         title: "Elite Event Management",
         subtitle: "Dream Event",
         link: "gallery-details.html",
     },
     {
-        image: "/assets/images/gallery/gallery-2-2.jpg",
+        image: "assets/images/gallery/gallery-2-2.jpg",
         title: "Elite Event Management",
         subtitle: "Dream Event",
         link: "gallery-details.html",
     },
     {
-        image: "/assets/images/gallery/gallery-2-3.jpg",
+        image: "assets/images/gallery/gallery-2-3.jpg",
         title: "Elite Event Management",
         subtitle: "Dream Event",
         link: "gallery-details.html",
     },
     {
-        image: "/assets/images/gallery/gallery-2-4.jpg",
+        image: "assets/images/gallery/gallery-2-4.jpg",
         title: "Elite Event Management",
         subtitle: "Dream Event",
         link: "gallery-details.html",

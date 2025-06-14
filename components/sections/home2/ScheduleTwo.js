@@ -50,7 +50,7 @@ const ScheduleTwo = () => {
                                         <div className="row">
                                         <div className="col-xl-4 col-lg-4">
                                             <div className="schedule-two__img">
-                                            <img src="/assets/images/resources/schedule-two-1-1.jpg" alt="" />
+                                            <img src="assets/images/resources/schedule-two-1-1.jpg" alt="" />
                                             </div>
                                         </div>
                                         <div className="col-xl-8 col-lg-8">
@@ -98,7 +98,7 @@ const ScheduleTwo = () => {
                                         <div className="row">
                                         <div className="col-xl-4 col-lg-4">
                                             <div className="schedule-two__img">
-                                            <img src="/assets/images/resources/schedule-two-1-2.jpg" alt="" />
+                                            <img src="assets/images/resources/schedule-two-1-2.jpg" alt="" />
                                             </div>
                                         </div>
                                         <div className="col-xl-8 col-lg-8">
@@ -146,7 +146,7 @@ const ScheduleTwo = () => {
                                         <div className="row">
                                         <div className="col-xl-4 col-lg-4">
                                             <div className="schedule-two__img">
-                                            <img src="/assets/images/resources/schedule-two-1-3.jpg" alt="" />
+                                            <img src="assets/images/resources/schedule-two-1-3.jpg" alt="" />
                                             </div>
                                         </div>
                                         <div className="col-xl-8 col-lg-8">
@@ -199,7 +199,7 @@ const ScheduleTwo = () => {
                                         <div className="row">
                                         <div className="col-xl-4 col-lg-4">
                                             <div className="schedule-two__img">
-                                            <img src="/assets/images/resources/schedule-two-1-4.jpg" alt="" />
+                                            <img src="assets/images/resources/schedule-two-1-4.jpg" alt="" />
                                             </div>
                                         </div>
                                         <div className="col-xl-8 col-lg-8">
@@ -247,7 +247,7 @@ const ScheduleTwo = () => {
                                         <div className="row">
                                         <div className="col-xl-4 col-lg-4">
                                             <div className="schedule-two__img">
-                                            <img src="/assets/images/resources/schedule-two-1-5.jpg" alt="" />
+                                            <img src="assets/images/resources/schedule-two-1-5.jpg" alt="" />
                                             </div>
                                         </div>
                                         <div className="col-xl-8 col-lg-8">
@@ -295,7 +295,7 @@ const ScheduleTwo = () => {
                                         <div className="row">
                                         <div className="col-xl-4 col-lg-4">
                                             <div className="schedule-two__img">
-                                            <img src="/assets/images/resources/schedule-two-1-6.jpg" alt="" />
+                                            <img src="assets/images/resources/schedule-two-1-6.jpg" alt="" />
                                             </div>
                                         </div>
                                         <div className="col-xl-8 col-lg-8">
@@ -348,7 +348,7 @@ const ScheduleTwo = () => {
                                         <div className="row">
                                         <div className="col-xl-4 col-lg-4">
                                             <div className="schedule-two__img">
-                                            <img src="/assets/images/resources/schedule-two-1-7.jpg" alt="Event Image 1" />
+                                            <img src="assets/images/resources/schedule-two-1-7.jpg" alt="Event Image 1" />
                                             </div>
                                         </div>
                                         <div className="col-xl-8 col-lg-8">
@@ -396,7 +396,7 @@ const ScheduleTwo = () => {
                                         <div className="row">
                                         <div className="col-xl-4 col-lg-4">
                                             <div className="schedule-two__img">
-                                            <img src="/assets/images/resources/schedule-two-1-8.jpg" alt="Event Image 2" />
+                                            <img src="assets/images/resources/schedule-two-1-8.jpg" alt="Event Image 2" />
                                             </div>
                                         </div>
                                         <div className="col-xl-8 col-lg-8">
@@ -444,7 +444,7 @@ const ScheduleTwo = () => {
                                         <div className="row">
                                         <div className="col-xl-4 col-lg-4">
                                             <div className="schedule-two__img">
-                                            <img src="/assets/images/resources/schedule-two-1-9.jpg" alt="Event Image 3" />
+                                            <img src="assets/images/resources/schedule-two-1-9.jpg" alt="Event Image 3" />
                                             </div>
                                         </div>
                                         <div className="col-xl-8 col-lg-8">

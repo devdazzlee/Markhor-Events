@@ -28,7 +28,7 @@ export default function EventOne() {
         link: "/event",
       },
     ],
-    eventImage: "/assets/videos/HomeVideo.mov",
+    eventImage: "assets/videos/HomeVideo.mov",
   });
 
   return (
@@ -77,7 +77,7 @@ export default function EventOne() {
 
             <div style={{ width: "100%" }}>
               <video
-                src={"/assets/videos/HomeVideo.mov"}
+                src={"assets/videos/HomeVideo.mov"}
                 autoPlay
                 muted
                 loop

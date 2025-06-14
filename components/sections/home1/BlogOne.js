@@ -5,7 +5,7 @@ const blogPosts = [
   {
     id: 1,
     title: "Neon Beach Rave Recap: Karachi's Glow Party",
-    image: '/assets/images/blog/neon-beach-rave.jpg',
+    image: 'assets/images/blog/neon-beach-rave.jpg',
     date: 'June 5, 2025',
     author: 'Markhor Team',
     link: '/blog-details/neon-beach-rave',
@@ -15,7 +15,7 @@ const blogPosts = [
   {
     id: 2,
     title: 'Top 5 Hidden Rooftop Venues for Nightouts',
-    image: '/assets/images/blog/rooftop-venues.jpg',
+    image: 'assets/images/blog/rooftop-venues.jpg',
     date: 'June 10, 2025',
     author: 'Markhor Team',
     link: '/blog-details/rooftop-venues',
@@ -25,7 +25,7 @@ const blogPosts = [
   {
     id: 3,
     title: "Girls' Night Out Essentials: What to Wear & Bring",
-    image: '/assets/images/blog/girls-night-essentials.jpg',
+    image: 'assets/images/blog/girls-night-essentials.jpg',
     date: 'June 15, 2025',
     author: 'Markhor Team',
     link: '/blog-details/girls-night-essentials',

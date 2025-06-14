@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <>
-      <Layout headerStyle={4} footerStyle={1} breadcrumbTitle="CONTACT US" backgroundImage={"/assets/images/resources/contact_us.jpg"}>
+      <Layout headerStyle={4} footerStyle={1} breadcrumbTitle="CONTACT US" backgroundImage={"assets/images/resources/contact_us.jpg"}>
         <div>
           {/*Contact One Start*/}
           <section className="contact-one">

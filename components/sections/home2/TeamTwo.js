@@ -6,7 +6,7 @@ export default function TeamTwo() {
     {
       name: "Sakib Al Hasan",
       role: "Web Development",
-      imgSrc: "/assets/images/team/team-2-1.jpg",
+      imgSrc: "assets/images/team/team-2-1.jpg",
       description: "Events are special occasions where people gather together to celebrate commemorate participate.",
       socialLinks: [
         { platform: "Instagram", link: "#" },
@@ -18,7 +18,7 @@ export default function TeamTwo() {
     {
       name: "Devid Bekham",
       role: "UI/UX DESIGN",
-      imgSrc: "/assets/images/team/team-2-2.jpg",
+      imgSrc: "assets/images/team/team-2-2.jpg",
       description: "Events are special occasions where people gather together to celebrate commemorate participate.",
       socialLinks: [
         { platform: "Instagram", link: "#" },
@@ -30,7 +30,7 @@ export default function TeamTwo() {
     {
       name: "Andre Rusell",
       role: "Web Development",
-      imgSrc: "/assets/images/team/team-2-3.jpg",
+      imgSrc: "assets/images/team/team-2-3.jpg",
       description: "Events are special occasions where people gather together to celebrate commemorate participate.",
       socialLinks: [
         { platform: "Instagram", link: "#" },

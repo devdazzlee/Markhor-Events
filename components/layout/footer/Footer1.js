@@ -6,14 +6,14 @@ export default function Footer1() {
             {/* Site Footer Start */}
             <footer className="site-footer">
                 <div className="site-footer__shape-1 float-bob-y">
-                    <img style={{ width: "135px", height: "auto" }} src="/assets/images/logo.svg" alt="Logo" />
+                    <img style={{ width: "135px", height: "auto" }} src="assets/images/logo.svg" alt="Logo" />
                 </div>
                 <div className="site-footer__top">
                     <div className="container">
                         <div className="site-footer__top-inner">
                             <div className="site-footer__logo">
                                 <Link href="/">
-                                    <img style={{ width: "135px", height: "auto" }} src="/assets/images/logo.svg" alt="Logo" />
+                                    <img style={{ width: "135px", height: "auto" }} src="assets/images/logo.svg" alt="Logo" />
                                 </Link>
                             </div>
                             <div className="site-footer__social">

@@ -60,7 +60,7 @@ const ScheduleOne = () => {
                                         </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                        <img src="/assets/images/resources/schedule-one-1-1.jpg" alt="" />
+                                        <img src="assets/images/resources/schedule-one-1-1.jpg" alt="" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                         <ul className="list-unstyled schedule-one__address">
@@ -108,7 +108,7 @@ const ScheduleOne = () => {
                                         </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                        <img src="/assets/images/resources/schedule-one-1-2.jpg" alt="" />
+                                        <img src="assets/images/resources/schedule-one-1-2.jpg" alt="" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                         <ul className="list-unstyled schedule-one__address">
@@ -155,7 +155,7 @@ const ScheduleOne = () => {
                                         </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                        <img src="/assets/images/resources/schedule-one-1-3.jpg" alt="" />
+                                        <img src="assets/images/resources/schedule-one-1-3.jpg" alt="" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                         <ul className="list-unstyled schedule-one__address">
@@ -205,7 +205,7 @@ const ScheduleOne = () => {
                                         </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                        <img src="/assets/images/resources/schedule-one-1-4.jpg" alt="Event Image" />
+                                        <img src="assets/images/resources/schedule-one-1-4.jpg" alt="Event Image" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                         <ul className="list-unstyled schedule-one__address">
@@ -250,7 +250,7 @@ const ScheduleOne = () => {
                                         </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                        <img src="/assets/images/resources/schedule-one-1-5.jpg" alt="Event Image" />
+                                        <img src="assets/images/resources/schedule-one-1-5.jpg" alt="Event Image" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                         <ul className="list-unstyled schedule-one__address">
@@ -295,7 +295,7 @@ const ScheduleOne = () => {
                                         </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                        <img src="/assets/images/resources/schedule-one-1-6.jpg" alt="Event Image" />
+                                        <img src="assets/images/resources/schedule-one-1-6.jpg" alt="Event Image" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                         <ul className="list-unstyled schedule-one__address">
@@ -344,7 +344,7 @@ const ScheduleOne = () => {
                                         </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                        <img src="/assets/images/resources/schedule-one-1-7.jpg" alt="" />
+                                        <img src="assets/images/resources/schedule-one-1-7.jpg" alt="" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                         <ul className="list-unstyled schedule-one__address">
@@ -384,7 +384,7 @@ const ScheduleOne = () => {
                                         </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                        <img src="/assets/images/resources/schedule-one-1-8.jpg" alt="" />
+                                        <img src="assets/images/resources/schedule-one-1-8.jpg" alt="" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                         <ul className="list-unstyled schedule-one__address">
@@ -424,7 +424,7 @@ const ScheduleOne = () => {
                                         </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                        <img src="/assets/images/resources/schedule-one-1-9.jpg" alt="" />
+                                        <img src="assets/images/resources/schedule-one-1-9.jpg" alt="" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                         <ul className="list-unstyled schedule-one__address">

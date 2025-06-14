@@ -58,7 +58,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="/assets/images/events/glow_dance_party.jpg" alt="" />
+                                            <img src="assets/images/events/glow_dance_party.jpg" alt="" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -105,7 +105,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="/assets/images/events/beach_selfie_spot.jpg" alt="" />
+                                            <img src="assets/images/events/beach_selfie_spot.jpg" alt="" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -151,7 +151,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="/assets/images/events/girl_night_carnival.jpg" alt="" />
+                                            <img src="assets/images/events/girl_night_carnival.jpg" alt="" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -201,7 +201,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="/assets/images/events/silhouette-of-a-woman.jpg" alt="Event Image" />
+                                            <img src="assets/images/events/silhouette-of-a-woman.jpg" alt="Event Image" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -246,7 +246,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="/assets/images/events/close-up-oh-happy-women-holding.jpg" alt="Event Image" />
+                                            <img src="assets/images/events/close-up-oh-happy-women-holding.jpg" alt="Event Image" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -291,7 +291,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="/assets/images/events/young-people-enjoying-raving-party.jpg" alt="Event Image" />
+                                            <img src="assets/images/events/young-people-enjoying-raving-party.jpg" alt="Event Image" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -340,7 +340,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="/assets/images/events/young-intercultural-friends-in-casualwear.jpg" alt="" />
+                                            <img src="assets/images/events/young-intercultural-friends-in-casualwear.jpg" alt="" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -380,7 +380,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="/assets/images/events/happy-dressed-people-celebrating.jpg" alt="" />
+                                            <img src="assets/images/events/happy-dressed-people-celebrating.jpg" alt="" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -420,7 +420,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="/assets/images/events/portrait-of-a-beefy-man-and.jpg" alt="" />
+                                            <img src="assets/images/events/portrait-of-a-beefy-man-and.jpg" alt="" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">

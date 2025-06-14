@@ -22,7 +22,7 @@ export default function Sidebar({ isSidebar, handleSidebar }) {
                   <div className="logo">
                     <Link href="/">
                       <img
-                        style={{ width: "135px", height: "auto" }} src="/assets/images/logo.svg"
+                        style={{ width: "135px", height: "auto" }} src="assets/images/logo.svg"
                         alt="Logo"
                       />
                     </Link>

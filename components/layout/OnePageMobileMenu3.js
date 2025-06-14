@@ -42,7 +42,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
           </span>
           <div className="logo-box">
             <Link href="/" aria-label="logo image">
-              <img style={{ width: "135px", height: "auto" }} src="/assets/images/logo.svg" alt="Logo" />
+              <img style={{ width: "135px", height: "auto" }} src="assets/images/logo.svg" alt="Logo" />
             </Link>
           </div>
           {/* /.logo-box */}

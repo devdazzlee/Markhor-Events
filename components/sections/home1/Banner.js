@@ -37,7 +37,7 @@ export default function Banner() {
             <SwiperSlide className="swiper-slide">
               <div className="main-slider__img">
                 <Image
-                  src="/assets/images/IMG_3013.PNG" // Make sure the path starts with `/` and file is inside `/public`
+                  src="assets/images/IMG_3013.PNG" // Make sure the path starts with `/` and file is inside `/public`
                   alt="Banner"
                   className="image-hover"
                   width={1200}    // Give real width of the image in pixels

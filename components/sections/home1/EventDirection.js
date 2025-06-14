@@ -12,7 +12,7 @@ export default function EventDirection() {
     phone: "3075550133",
     callText: "Let's Chat",
     callNumber: "(307) 555-0133",
-    iconSrc: "/assets/images/icon/event-direction-chat-icon.png",
+    iconSrc: "assets/images/icon/event-direction-chat-icon.png",
   });
 
   return (

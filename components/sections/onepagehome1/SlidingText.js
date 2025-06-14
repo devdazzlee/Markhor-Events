@@ -19,7 +19,7 @@ export default function SlidingText() {
             <li key={index}>
               <h2 data-hover={text} className="sliding-text__title">
                 {text}
-                <img src="/assets/images/icon/star-icon.png" alt="Star Icon" />
+                <img src="assets/images/icon/star-icon.png" alt="Star Icon" />
               </h2>
             </li>
           ))}

@@ -28,7 +28,7 @@ const points = [
 export default function Home() {
   return (
     <>
-      <Layout headerStyle={4} footerStyle={1} breadcrumbTitle="About US" backgroundImage="/assets/images/resources/about-us-banner.svg">
+      <Layout headerStyle={4} footerStyle={1} breadcrumbTitle="About US" backgroundImage="assets/images/resources/about-us-banner.svg">
         <div>
           <EventOne />
           <SlidingText />

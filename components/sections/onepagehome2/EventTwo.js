@@ -3,8 +3,8 @@ import Link from 'next/link';
 import CountUp from 'react-countup';
 // data/eventData.js
 export const eventData = {
-    image1: '/assets/images/resources/event-two-img-1.jpg',
-    image2: '/assets/images/resources/event-two-img-2.jpg',
+    image1: 'assets/images/resources/event-two-img-1.jpg',
+    image2: 'assets/images/resources/event-two-img-2.jpg',
     trustedCustomerCount: 6.5,
     sectionTitleTagline: 'About our event',
     sectionTitle: 'Celebrate Life Events Celebrate with Us',
@@ -58,7 +58,7 @@ export default function EventTwo() {
                   <img src={eventData.image2} alt="Event Image 2" />
                 </div>
                 <div className="event-two__shape-1 float-bob-y">
-                  <img src="/assets/images/shapes/event-two-shape-1.png" alt="Shape" />
+                  <img src="assets/images/shapes/event-two-shape-1.png" alt="Shape" />
                 </div>
               </div>
             </div>

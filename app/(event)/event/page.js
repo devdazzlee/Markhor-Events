@@ -14,7 +14,7 @@ export default function Home() {
 
   return (
     <>
-      <Layout headerStyle={4} footerStyle={1} backgroundImage={'/assets/images/pparty_events.jpg'} breadcrumbTitle="Event">
+      <Layout headerStyle={4} footerStyle={1} backgroundImage={'assets/images/pparty_events.jpg'} breadcrumbTitle="Event">
         <div style={{ "margin": "80px 0px 20px 0px" }}>
           <ScheduleOne />
         </div >

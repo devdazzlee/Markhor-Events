@@ -17,7 +17,7 @@ export default function VideoOne() {
                 <div className="container">
                     <div className="video-one__inner wow fadeInUp" data-wow-delay="300ms">
                         <div className="video-one__img">
-                            <img src="/assets/images/resources/video-one-img-1.jpg" alt="Video Thumbnail" />
+                            <img src="assets/images/resources/video-one-img-1.jpg" alt="Video Thumbnail" />
                             <div className="video-one__video-link">
                                 <div onClick={openModal} className="video-popup" style={{ cursor: 'pointer', display: 'inline-block' }}>
                                     <div className="video-one__video-icon">

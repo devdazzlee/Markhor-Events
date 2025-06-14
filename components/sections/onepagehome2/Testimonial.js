@@ -8,25 +8,25 @@ const testimonials = [
         name: "Jonathon Doe",
         role: "Officer",
         text: "Events are special occasions where people gather together to celebrate, commemorate, or participate in a specific purpose or theme.",
-        image: "/assets/images/testimonial/testimonial-one-client-1-1.jpg"
+        image: "assets/images/testimonial/testimonial-one-client-1-1.jpg"
     },
     {
         name: "Jonathon Cample",
         role: "Designer",
         text: "Events are special occasions where people gather together to celebrate, commemorate, or participate in a specific purpose or theme.",
-        image: "/assets/images/testimonial/testimonial-one-client-1-2.jpg"
+        image: "assets/images/testimonial/testimonial-one-client-1-2.jpg"
     },
     {
         name: "Jonathon Trot",
         role: "Officer",
         text: "Events are special occasions where people gather together to celebrate, commemorate, or participate in a specific purpose or theme.",
-        image: "/assets/images/testimonial/testimonial-one-client-1-3.jpg"
+        image: "assets/images/testimonial/testimonial-one-client-1-3.jpg"
     },
     {
         name: "Jonathon Smith",
         role: "Designer",
         text: "Events are special occasions where people gather together to celebrate, commemorate, or participate in a specific purpose or theme.",
-        image: "/assets/images/testimonial/testimonial-one-client-1-4.jpg"
+        image: "assets/images/testimonial/testimonial-one-client-1-4.jpg"
     },
 ];
 
