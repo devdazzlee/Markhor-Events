@@ -1,4 +1,4 @@
-// File: C:\Users\Home\Desktop\Konain Bhai Work\New folder\markhor-eventflow\app\layout.js
+// File: C:\Users\Home\Desktop\Konain Bhai Work\markhor-eventflow\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -1,116 +1,6 @@
-// 'use client'
-// import Link from "next/link"
-// import { Autoplay, Navigation, Pagination } from "swiper/modules"
-// import { Swiper, SwiperSlide } from "swiper/react"
-
-// export default function Banner() {
-//   return (
-//     <div style={{
-//       display: "flex",
-//       alignItems: "center",
-//       justifyContent: "space-between",
-//       padding: "60px 40px",
-//       width: "100%",
-//       maxWidth: "1600px",
-//       margin: "0 auto",
-//       gap: "40px",
-//     }}>
-//       <style>
-//         {`
-//           @keyframes fadeSlideInLeft {
-//             0% { opacity: 0; transform: translateX(-40px); }
-//             100% { opacity: 1; transform: translateX(0); }
-//           }
-
-//           @keyframes fadeSlideInRight {
-//             0% { opacity: 0; transform: translateX(40px); }
-//             100% { opacity: 1; transform: translateX(0); }
-//           }
-
-//           .image-hover:hover {
-//             transform: scale(1.03);
-//             box-shadow: 0 10px 25px rgba(0,0,0,0.15);
-//           }
-
-//           .fade-left {
-//             animation: fadeSlideInLeft 1s ease-out forwards;
-//           }
-
-//           .fade-right {
-//             animation: fadeSlideInRight 1s ease-out forwards;
-//             animation-delay: 0.3s;
-//           }
-//         `}
-//       </style>
-
-//       {/* Left Content */}
-//       <div className="fade-left" style={{
-//         width: "50%",
-//         opacity: 0
-//       }}>
-//         <p style={{
-//           fontSize: "20px",
-//           marginBottom: "10px",
-//           fontWeight: "600",
-//           color: "#ff4081"
-//         }}>🌟 Music Festival</p>
-
-//         <h2 style={{
-//           fontSize: "42px",
-//           lineHeight: "1.3",
-//           marginBottom: "20px",
-//           fontWeight: "700",
-//           color: "white"
-//         }}>
-//           Discover a World <br />
-//           <span style={{ color: "#e91e63", fontWeight: "800" }}>of Celebration</span>
-//         </h2>
-
-//         <p style={{
-//           fontSize: "17px",
-//           lineHeight: "1.8",
-//           marginBottom: "25px",
-//           color: "white"
-//         }}>
-//           Experience the magic of live performances curated by Markhor Event. From electrifying concerts to cultural showcases, immerse yourself in an unforgettable celebration of music and community.
-//         </p>
-
-//         <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
-//           <li style={{ display: "flex", alignItems: "center", marginBottom: "10px" }}>
-//             <span style={{ marginRight: "10px", fontSize: "20px", color: "#e91e63" }} className="icon-pin"></span>
-//             <p style={{ margin: 0, color: "white" }}>Karachi Expo Center, Shahrah-e-Faisal, Karachi, Pakistan</p>
-//           </li>
-//           <li style={{ display: "flex", alignItems: "center" }}>
-//             <span style={{ marginRight: "10px", fontSize: "20px", color: "#e91e63" }} className="icon-clock"></span>
-//             <p style={{ margin: 0, color: "white" }}>6 PM – Midnight | June 15, 2025</p>
-//           </li>
-//         </ul>
-//       </div>
-
-//       {/* Right Image */}
-//       <div className="fade-right" style={{
-//         width: "50%",
-//         textAlign: "right",
-//         opacity: 0
-//       }}>
-//         <img
-//           src="assets/images/IMG_3013.PNG"
-//           alt="Banner"
-//           className="image-hover"
-//           style={{
-//             width: "100%",
-//             maxHeight: "450px",
-//             borderRadius: "16px",
-//             transition: "all 0.4s ease-in-out",
-//             boxShadow: "0 5px 15px rgba(0, 0, 0, 0.1)"
-//           }}
-//         />
-//       </div>
-//     </div>
-//   );
-// }
-
 "use client";
+
+import Image from "next/image";
 import Link from "next/link";
 import { Autoplay, Navigation, Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -146,16 +36,16 @@ export default function Banner() {
           <div className="swiper-wrapper">
             <SwiperSlide className="swiper-slide">
               <div className="main-slider__img">
-                <img
-                  src="assets/images/IMG_3013.PNG"
+                <Image
+                  src="/assets/images/IMG_3013.PNG" // Make sure the path starts with `/` and file is inside `/public`
                   alt="Banner"
                   className="image-hover"
+                  width={1200}    // Give real width of the image in pixels
+                  height={600}    // Give real height (can be rough estimate, but helps layout shift)
                   style={{
                     width: "100%",
                     maxHeight: "600px",
                     borderRadius: "16px",
-                    // transition: "all 0.4s ease-in-out",
-                    // boxShadow: "0 5px 15px rgba(0, 0, 0, 0.1)",
                   }}
                 />
               </div>
@@ -183,7 +73,7 @@ export default function Banner() {
                       <h2 className="main-slider__title">
                         Discover a World <br /> <span>of Celebration</span>
                       </h2>
-                      <p  style={{"maxWidth" :"600px"}} className="main-slider__text">
+                      <p style={{ "maxWidth": "600px" }} className="main-slider__text">
                         Experience the magic of live performances curated by
                         Markhor Event. From electrifying concerts to cultural
                         showcases, immerse yourself in an unforgettable
