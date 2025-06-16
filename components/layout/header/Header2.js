@@ -11,7 +11,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, isSide
             <div className="main-menu__wrapper-inner">
               <div className="main-menu__left">
                 <Link href="/">
-                  <img style={{ width: "135px", height: "auto" }} src="assets/images/logo.svg" alt="Logo" />
+                  <img style={{ width: "135px", height: "auto" }} src="https://res.cloudinary.com/dneh5diea/image/upload/v1749922471/Blog/Base/hgfbjdvzjj5hfrphsczg.svg" alt="Logo" />
                 </Link>
               </div>
               <div className="main-menu__main-menu-box">
@@ -50,7 +50,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, isSide
               <div className="main-menu__wrapper-inner">
                 <div className="main-menu__left">
                   <Link href="/">
-                    <img style={{ width: "135px", height: "auto" }} src="assets/images/logo.svg" alt="Logo" />
+                    <img style={{ width: "135px", height: "auto" }} src="https://res.cloudinary.com/dneh5diea/image/upload/v1749922471/Blog/Base/hgfbjdvzjj5hfrphsczg.svg" alt="Logo" />
                   </Link>
                 </div>
                 <div className="main-menu__main-menu-box">

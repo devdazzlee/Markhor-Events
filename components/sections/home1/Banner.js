@@ -37,7 +37,7 @@ export default function Banner() {
             <SwiperSlide className="swiper-slide">
               <div className="main-slider__img">
                 <Image
-                  src="assets/images/IMG_3013.PNG" // Make sure the path starts with `/` and file is inside `/public`
+                  src="https://res.cloudinary.com/dneh5diea/image/upload/v1749922467/Blog/Base/v4v1o2jomdmxurww2xma.png" // Make sure the path starts with `/` and file is inside `/public`
                   alt="Banner"
                   className="image-hover"
                   width={1200}    // Give real width of the image in pixels
@@ -50,19 +50,19 @@ export default function Banner() {
                 />
               </div>
               {/* <div className="main-slider__shpae-1">
-                <img src="assets/images/shapes/main-slider-shape-1.png" alt="" />
+                <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/zxwi8jqrxanigthf30vo.png" alt="" />
               </div>
               <div className="main-slider__shpae-2">
-                <img src="assets/images/shapes/main-slider-shape-2.png" alt="" />
+                <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/pm1bhikyhutpgrmkxayw.png" alt="" />
               </div>
               <div className="main-slider__start-1">
-                <img src="assets/images/shapes/main-slider-star-1.png" alt="" />
+                <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/doiukczc4kbq1abrvnej.png" alt="" />
               </div>
               <div className="main-slider__start-2 zoominout">
-                <img src="assets/images/shapes/main-slider-star-2.png" alt="" />
+                <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/jc5xzytrv1d7d6iwkh75.png" alt="" />
               </div>
               <div className="main-slider__start-3">
-                <img src="assets/images/shapes/main-slider-star-3.png" alt="" />
+                <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928160/Shapes/iiv3fxwqvobw2hmwi7oj.png" alt="" />
               </div> */}
 
               <div className="container">
@@ -120,19 +120,19 @@ export default function Banner() {
                 <img src="assets/images/resources/main-slider-img-1-2.jpg" alt="" />
               </div>
               <div className="main-slider__shpae-1">
-                <img src="assets/images/shapes/main-slider-shape-1.png" alt="" />
+                <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/zxwi8jqrxanigthf30vo.png" alt="" />
               </div>
               <div className="main-slider__shpae-2">
-                <img src="assets/images/shapes/main-slider-shape-2.png" alt="" />
+                <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/pm1bhikyhutpgrmkxayw.png" alt="" />
               </div>
               <div className="main-slider__start-1">
-                <img src="assets/images/shapes/main-slider-star-1.png" alt="" />
+                <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/doiukczc4kbq1abrvnej.png" alt="" />
               </div>
               <div className="main-slider__start-2 zoominout">
-                <img src="assets/images/shapes/main-slider-star-2.png" alt="" />
+                <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/jc5xzytrv1d7d6iwkh75.png" alt="" />
               </div>
               <div className="main-slider__start-3">
-                <img src="assets/images/shapes/main-slider-star-3.png" alt="" />
+                <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928160/Shapes/iiv3fxwqvobw2hmwi7oj.png" alt="" />
               </div>
               <div className="container">
                 <div className="row">
@@ -181,19 +181,19 @@ export default function Banner() {
                 <img src="assets/images/resources/main-slider-img-1-3.jpg" alt="" />
               </div>
               <div className="main-slider__shpae-1">
-                <img src="assets/images/shapes/main-slider-shape-1.png" alt="" />
+                <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/zxwi8jqrxanigthf30vo.png" alt="" />
               </div>
               <div className="main-slider__shpae-2">
-                <img src="assets/images/shapes/main-slider-shape-2.png" alt="" />
+                <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/pm1bhikyhutpgrmkxayw.png" alt="" />
               </div>
               <div className="main-slider__start-1">
-                <img src="assets/images/shapes/main-slider-star-1.png" alt="" />
+                <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/doiukczc4kbq1abrvnej.png" alt="" />
               </div>
               <div className="main-slider__start-2 zoominout">
-                <img src="assets/images/shapes/main-slider-star-2.png" alt="" />
+                <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/jc5xzytrv1d7d6iwkh75.png" alt="" />
               </div>
               <div className="main-slider__start-3">
-                <img src="assets/images/shapes/main-slider-star-3.png" alt="" />
+                <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928160/Shapes/iiv3fxwqvobw2hmwi7oj.png" alt="" />
               </div>
               <div className="container">
                 <div className="row">

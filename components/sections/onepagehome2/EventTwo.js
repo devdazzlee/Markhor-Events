@@ -58,7 +58,7 @@ export default function EventTwo() {
                   <img src={eventData.image2} alt="Event Image 2" />
                 </div>
                 <div className="event-two__shape-1 float-bob-y">
-                  <img src="assets/images/shapes/event-two-shape-1.png" alt="Shape" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/pw9zyi0vbbrkfplt5hs1.png" alt="Shape" />
                 </div>
               </div>
             </div>

@@ -28,7 +28,7 @@ export default function EventOne() {
         link: "/event",
       },
     ],
-    eventImage: "assets/videos/HomeVideo.mov",
+    eventImage: "https://res.cloudinary.com/dneh5diea/video/upload/v1749921775/arsnt9aoreem6rusgkrl.mov",
   });
 
   return (
@@ -77,7 +77,7 @@ export default function EventOne() {
 
             <div style={{ width: "100%" }}>
               <video
-                src={"assets/videos/HomeVideo.mov"}
+                src={"https://res.cloudinary.com/dneh5diea/video/upload/v1749921775/arsnt9aoreem6rusgkrl.mov"}
                 autoPlay
                 muted
                 loop

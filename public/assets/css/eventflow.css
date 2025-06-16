@@ -393,7 +393,7 @@ ul {
   animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background-image: url(../images/loader.png);
+  background-image: url("https://res.cloudinary.com/dneh5diea/image/upload/v1749922464/Blog/Base/mrgkfcj9oqaeb1htur8l.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 60px auto;

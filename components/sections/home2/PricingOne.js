@@ -108,7 +108,7 @@ export default function PricingOne () {
                           <div className="pricing-one__single">
                             <div className="pricing-one__single-inner">
                               <div className="pricing-one__price-box">
-                                <div className="pricing-one__shape-1" style={{ backgroundImage: 'url(assets/images/shapes/pricing-one-shape-1.png)' }}></div>
+                                <div className="pricing-one__shape-1" style={{ backgroundImage: 'url(https://res.cloudinary.com/dneh5diea/image/upload/v1749928178/Shapes/tworuuqx6nrswwm5ts50.png)' }}></div>
                                 <h3 className="pricing-one__price">${plan.price} <span>/mo</span></h3>
                                 <p className="pricing-one__pack-name">{plan.planName}</p>
                               </div>
