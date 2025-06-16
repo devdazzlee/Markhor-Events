@@ -58,7 +58,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="assets/images/events/glow_dance_party.jpg" alt="" />
+                                            <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1750072590/Blog2/tivda27sr6dmvo4shzrm.jpg" alt="glow party" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -105,7 +105,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="assets/images/events/beach_selfie_spot.jpg" alt="" />
+                                            <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1750072549/Blog2/gmnftfv9o6za7svl487o.jpg" alt="Beach Selfie" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -151,7 +151,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="assets/images/events/girl_night_carnival.jpg" alt="" />
+                                            <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1750072793/Blog2/nclhrv7hgeimsmsk4kyy.jpg" alt="Girl Night Carnival" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -201,7 +201,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="assets/images/events/silhouette-of-a-woman.jpg" alt="Event Image" />
+                                            <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1750072586/Blog2/uhdoh45pcq9xunoqzkpu.jpg" alt="Event Image" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -246,7 +246,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="assets/images/events/close-up-oh-happy-women-holding.jpg" alt="Event Image" />
+                                            <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1750072556/Blog2/yyfznzpktg3zz4pgmk2l.jpg" alt="Event Image" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -291,7 +291,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="assets/images/events/young-people-enjoying-raving-party.jpg" alt="Event Image" />
+                                            <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1750072615/Blog2/fpyfuyzfj7iu7f8f7vj4.jpg" alt="Event Image" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -340,7 +340,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="assets/images/events/young-intercultural-friends-in-casualwear.jpg" alt="" />
+                                            <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1750072799/Blog2/tzcght1vovrmq2xqrzf2.jpg" alt="People enjoying raving party" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -380,7 +380,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="assets/images/events/happy-dressed-people-celebrating.jpg" alt="" />
+                                            <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1750072586/Blog2/beyd9p37wtliaabp38px.jpg" alt="people celebrating" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">
@@ -420,7 +420,7 @@ const ScheduleOne = () => {
                                             </p>
                                         </div>
                                         <div className="schedule-one__img">
-                                            <img src="assets/images/events/portrait-of-a-beefy-man-and.jpg" alt="" />
+                                            <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1750072583/Blog2/ikdtggtf2ecvhdfxufbh.jpg" alt="potrait beefy man" />
                                         </div>
                                         <div className="schedule-one__address-and-btn-box">
                                             <ul className="list-unstyled schedule-one__address">

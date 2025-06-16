@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import Link from "next/link";
 import { Autoplay, Navigation, Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -36,12 +35,12 @@ export default function Banner() {
           <div className="swiper-wrapper">
             <SwiperSlide className="swiper-slide">
               <div className="main-slider__img">
-                <Image
+                <img
                   src="https://res.cloudinary.com/dneh5diea/image/upload/v1749922467/Blog/Base/v4v1o2jomdmxurww2xma.png" // Make sure the path starts with `/` and file is inside `/public`
                   alt="Banner"
                   className="image-hover"
                   width={1200}    // Give real width of the image in pixels
-                  height={600}    // Give real height (can be rough estimate, but helps layout shift)
+                  height={600}    // Give real height (can be rough estimate, but helps layout shift)   
                   style={{
                     width: "100%",
                     maxHeight: "600px",
