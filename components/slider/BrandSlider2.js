@@ -54,43 +54,43 @@ export default function BrandSlider2() {
             <Swiper {...swiperOptions} className="thm-swiper__slider swiper-container">
                 <div className="swiper-wrapper">
                     <SwiperSlide className="swiper-slide">
-                        <img src="assets/images/brand/brand-2-1.png" alt="" />
+                        <img src="assets/images/brand/brand-2-1.png" alt="Brand Logo 1" />
                     </SwiperSlide>
                     {/* /.swiper-slide */}
                     <SwiperSlide className="swiper-slide">
-                        <img src="assets/images/brand/brand-2-2.png" alt="" />
+                        <img src="assets/images/brand/brand-2-2.png" alt="Brand Logo 2" />
                     </SwiperSlide>
                     {/* /.swiper-slide */}
                     <SwiperSlide className="swiper-slide">
-                        <img src="assets/images/brand/brand-2-3.png" alt="" />
+                        <img src="assets/images/brand/brand-2-3.png" alt="Brand Logo 3" />
                     </SwiperSlide>
                     {/* /.swiper-slide */}
                     <SwiperSlide className="swiper-slide">
-                        <img src="assets/images/brand/brand-2-4.png" alt="" />
+                        <img src="assets/images/brand/brand-2-4.png" alt="Brand Logo 4" />
                     </SwiperSlide>
                     {/* /.swiper-slide */}
                     <SwiperSlide className="swiper-slide">
-                        <img src="assets/images/brand/brand-2-5.png" alt="" />
+                        <img src="assets/images/brand/brand-2-5.png" alt="Brand Logo 5" />
                     </SwiperSlide>
                     {/* /.swiper-slide */}
                     <SwiperSlide className="swiper-slide">
-                        <img src="assets/images/brand/brand-2-1.png" alt="" />
+                        <img src="assets/images/brand/brand-2-1.png" alt="Brand Logo 1" />
                     </SwiperSlide>
                     {/* /.swiper-slide */}
                     <SwiperSlide className="swiper-slide">
-                        <img src="assets/images/brand/brand-2-2.png" alt="" />
+                        <img src="assets/images/brand/brand-2-2.png" alt="Brand Logo 2" />
                     </SwiperSlide>
                     {/* /.swiper-slide */}
                     <SwiperSlide className="swiper-slide">
-                        <img src="assets/images/brand/brand-2-3.png" alt="" />
+                        <img src="assets/images/brand/brand-2-3.png" alt="Brand Logo 3" />
                     </SwiperSlide>
                     {/* /.swiper-slide */}
                     <SwiperSlide className="swiper-slide">
-                        <img src="assets/images/brand/brand-2-4.png" alt="" />
+                        <img src="assets/images/brand/brand-2-4.png" alt="Brand Logo 4" />
                     </SwiperSlide>
                     {/* /.swiper-slide */}
                     <SwiperSlide className="swiper-slide">
-                        <img src="assets/images/brand/brand-2-5.png" alt="" />
+                        <img src="assets/images/brand/brand-2-5.png" alt="Brand Logo 5" />
                     </SwiperSlide>
                     {/* /.swiper-slide */}
                 </div>

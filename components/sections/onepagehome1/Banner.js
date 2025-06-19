@@ -1,4 +1,3 @@
-
 'use client'
 import Link from "next/link"
 import { Autoplay, Navigation, Pagination } from "swiper/modules"
@@ -33,22 +32,22 @@ export default function Banner() {
             <div className="swiper-wrapper">
               <SwiperSlide className="swiper-slide">
                 <div className="main-slider__img">
-                  <img src="assets/images/resources/main-slider-img-1-1.jpg" alt="" />
+                  <img src="assets/images/resources/main-slider-img-1-1.jpg" alt="Main Banner Image 1" />
                 </div>
                 <div className="main-slider__shpae-1">
-                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/zxwi8jqrxanigthf30vo.png" alt="" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/zxwi8jqrxanigthf30vo.png" alt="Decorative Shape 1" />
                 </div>
                 <div className="main-slider__shpae-2">
-                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/pm1bhikyhutpgrmkxayw.png" alt="" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/pm1bhikyhutpgrmkxayw.png" alt="Decorative Shape 2" />
                 </div>
                 <div className="main-slider__start-1">
-                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/doiukczc4kbq1abrvnej.png" alt="" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/doiukczc4kbq1abrvnej.png" alt="Decorative Shape 3" />
                 </div>
                 <div className="main-slider__start-2 zoominout">
-                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/jc5xzytrv1d7d6iwkh75.png" alt="" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/jc5xzytrv1d7d6iwkh75.png" alt="Decorative Shape 4" />
                 </div>
                 <div className="main-slider__start-3">
-                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928160/Shapes/iiv3fxwqvobw2hmwi7oj.png" alt="" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928160/Shapes/iiv3fxwqvobw2hmwi7oj.png" alt="Decorative Shape 5" />
                 </div>
                 <div className="container">
                   <div className="row">
@@ -94,22 +93,22 @@ export default function Banner() {
 
               <SwiperSlide className="swiper-slide">
                 <div className="main-slider__img">
-                  <img src="assets/images/resources/main-slider-img-1-2.jpg" alt="" />
+                  <img src="assets/images/resources/main-slider-img-1-2.jpg" alt="Main Banner Image 2" />
                 </div>
                 <div className="main-slider__shpae-1">
-                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/zxwi8jqrxanigthf30vo.png" alt="" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/zxwi8jqrxanigthf30vo.png" alt="Decorative Shape 1" />
                 </div>
                 <div className="main-slider__shpae-2">
-                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/pm1bhikyhutpgrmkxayw.png" alt="" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/pm1bhikyhutpgrmkxayw.png" alt="Decorative Shape 2" />
                 </div>
                 <div className="main-slider__start-1">
-                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/doiukczc4kbq1abrvnej.png" alt="" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/doiukczc4kbq1abrvnej.png" alt="Decorative Shape 3" />
                 </div>
                 <div className="main-slider__start-2 zoominout">
-                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/jc5xzytrv1d7d6iwkh75.png" alt="" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/jc5xzytrv1d7d6iwkh75.png" alt="Decorative Shape 4" />
                 </div>
                 <div className="main-slider__start-3">
-                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928160/Shapes/iiv3fxwqvobw2hmwi7oj.png" alt="" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928160/Shapes/iiv3fxwqvobw2hmwi7oj.png" alt="Decorative Shape 5" />
                 </div>
                 <div className="container">
                   <div className="row">
@@ -155,22 +154,22 @@ export default function Banner() {
 
               <SwiperSlide className="swiper-slide">
                 <div className="main-slider__img">
-                  <img src="assets/images/resources/main-slider-img-1-3.jpg" alt="" />
+                  <img src="assets/images/resources/main-slider-img-1-3.jpg" alt="Main Banner Image 3" />
                 </div>
                 <div className="main-slider__shpae-1">
-                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/zxwi8jqrxanigthf30vo.png" alt="" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/zxwi8jqrxanigthf30vo.png" alt="Decorative Shape 1" />
                 </div>
                 <div className="main-slider__shpae-2">
-                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/pm1bhikyhutpgrmkxayw.png" alt="" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/pm1bhikyhutpgrmkxayw.png" alt="Decorative Shape 2" />
                 </div>
                 <div className="main-slider__start-1">
-                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/doiukczc4kbq1abrvnej.png" alt="" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/doiukczc4kbq1abrvnej.png" alt="Decorative Shape 3" />
                 </div>
                 <div className="main-slider__start-2 zoominout">
-                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/jc5xzytrv1d7d6iwkh75.png" alt="" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928159/Shapes/jc5xzytrv1d7d6iwkh75.png" alt="Decorative Shape 4" />
                 </div>
                 <div className="main-slider__start-3">
-                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928160/Shapes/iiv3fxwqvobw2hmwi7oj.png" alt="" />
+                  <img src="https://res.cloudinary.com/dneh5diea/image/upload/v1749928160/Shapes/iiv3fxwqvobw2hmwi7oj.png" alt="Decorative Shape 5" />
                 </div>
                 <div className="container">
                   <div className="row">
